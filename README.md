@@ -1,8 +1,10 @@
 # AI- Final Lab 
 
-> These are required module for given lab manuals [10,12,13,14]
+> These are required ```module``` for given lab manuals [10,12,13,14]
 
-open ```CMD``` as Administrator and type below commands
+> Run these lab manuals on ```Jupyter Notebook```
+
+open ```CMD``` as ```Administrator``` and type below commands.
  
 ```pip install mglearn```
 
