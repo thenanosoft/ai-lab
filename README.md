@@ -12,4 +12,4 @@ open ```CMD``` as Administrator and type below commands
 
 ```pip install neurolab```
 
-please follow @thenanosoft
+please follow [@thenanosoft](https://github.com/thenanosoft)
