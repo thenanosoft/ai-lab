@@ -1,3 +1,5 @@
+[![Nanosoft Badge](https://img.shields.io/badge/Nanosoft-Passed-green)](https://thenanosoft.com)
+
 # AI- Final Lab 
 
 > These are required ```module``` for given lab manuals [10,12,13,14]
